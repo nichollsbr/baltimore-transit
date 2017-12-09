@@ -101,3 +101,4 @@ ENV/
 .mypy_cache/
 
 data/
+modified_data/clean_parking_citations
