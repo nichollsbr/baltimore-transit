@@ -1,4 +1,5 @@
 import geojson
+import shapely
 from shapely import geometry
 
 baltimore_boxes_geojson_string = open("modified_data/boxed_baltimore.geojson").read()
